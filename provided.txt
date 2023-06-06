@@ -1,0 +1,12 @@
+(1)  #include <iostream>
+(2)
+(3)  using namespace std;
+(4)
+(5)  int main() {
+(6)      int number1 = 1;  // Line 6
+(7)      int number2 = 3;  // Line 7
+(8)      int number3 = number1 + number2;
+(9)
+(10)     cout << "Sum: " << number3 << endl;
+(11) }
+(12)
